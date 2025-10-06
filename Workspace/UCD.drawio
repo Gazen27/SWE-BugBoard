@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ccXZ-GeXWXD3GfnYdJXF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="480" height="730" as="geometry" />
+        <mxCell id="1Txv67VJ5yEXJgljJXZ6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="480" height="720" as="geometry" />
         </mxCell>
         <mxCell id="x--MaVVPbjee-B7XgyKA-1" value="Utente&lt;div&gt;Autenticato&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="60" y="285" width="40" height="80" as="geometry" />
@@ -37,7 +37,7 @@
             <mxPoint x="532" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CP-pKnxsC-zQrMlP9FAG-14" value="Nuovo&lt;div&gt;Utente&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="CP-pKnxsC-zQrMlP9FAG-14" value="Utente&lt;div&gt;Sconosciuto&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="60" y="50" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CP-pKnxsC-zQrMlP9FAG-15" value="Ricerca richieste" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
