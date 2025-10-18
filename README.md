@@ -5,4 +5,8 @@
 ![Banner](https://github.com/user-attachments/assets/d9b65350-04ac-4476-a396-a752b0c62760)
 
 # About
-A modern platform for bugs resolution management
+A modern platform for bugs resolution management.
+[Click here](https://github.com/Gazen27/SWE-BugBoard/blob/main/Documentation/Traccia_progetto.pdf) to see the Project Tasks list.
+
+# Languages and Tools
+none
