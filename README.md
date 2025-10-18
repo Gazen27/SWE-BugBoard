@@ -2,7 +2,8 @@
 ![status: under development](https://badgen.net/badge/status/under_development/green)
 ![release: none](https://badgen.net/badge/release/none/purple)
 # SWE-BugBoard
-![Banner](https://github.com/user-attachments/assets/fc30dc28-0315-46a1-ac65-c1f9d82e6004)
+![Banner](https://github.com/user-attachments/assets/d9b65350-04ac-4476-a396-a752b0c62760)
 
 # About
+
 A modern platform for bugs resolution management
