@@ -3,4 +3,6 @@
 ![release: none](https://badgen.net/badge/release/none/purple)
 # SWE-BugBoard
 ![Banner](https://github.com/user-attachments/assets/dc87115f-5d44-401a-b1a5-dd5fb76784bb)
+
+# About
 A modern platform for bugs resolution management
