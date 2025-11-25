@@ -1,0 +1,15 @@
++++ Gianni +++
+TODO - 2.a
+TODO - 2.b
+
++++ Peppe +++
+TODO - 3.a
+TODO - 3.b
+
++++ Standby +++
+TODO - 3.c
+
++++ Codice +++
+TODO - 3.d
+TODO - 3.e
+TODO - 3.f
